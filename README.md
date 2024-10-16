@@ -1,7 +1,7 @@
 # Reproductor-Multimedia-
 # Documentación del Proyecto: Reproductor de Video y Audio
 
-**Autor:** Mariano Alejandro Orrego Zapata  
+**Autor:** Mariano Alejandro Orrego Zapata  , Manuela Gutierrez, Cristian Torres
 **Fecha:** Octubre 2024
 
 ## Tabla de Contenidos
@@ -67,4 +67,3 @@ El archivo de proyecto `video.pro` contiene configuraciones esenciales para comp
 El archivo `video.pro` incluye las siguientes líneas para habilitar las bibliotecas necesarias:
 
 ```sh
-QT       += core gui multimedia multimediawidgets
